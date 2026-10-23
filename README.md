@@ -1,7 +1,7 @@
 <!-- Profile README for https://github.com/luongviettienns -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:7C3AED&height=190&section=header&text=Kiro%20%7C%20Software%20Engineer&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36" alt="Dark tech cyan and purple profile banner" width="100%" />
+  <img src="./profile-banner.svg" alt="Kiro dark tech developer banner with cyan and violet circuitry" width="100%" />
 
   <h1>Lương Việt Tiến | Kiro</h1>
   <h3>Software Engineering Student · Full-stack Web Development · AI Enthusiast</h3>
