@@ -68,14 +68,16 @@ I am proficient in AI-assisted coding workflows with Claude, Cursor, OpenAI Code
 Mình sử dụng các AI coding agent để hỗ trợ đọc hiểu codebase, triển khai tính năng, tái cấu trúc, gỡ lỗi, viết tài liệu và xây dựng kiểm thử. Mình vẫn chủ động đọc lại, kiểm tra và xác minh kết quả do AI tạo ra.
 
 <div align="center">
-  <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
-  <a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" /></a>
-  <a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" /></a>
-  <a href="https://antigravity.google/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" /></a>
+  <img src="./ai-coding-agents.svg" alt="Dark tech showcase of Claude, Cursor, OpenAI Codex, and Google Antigravity coding agents" width="100%" />
 </div>
 
 <p align="center">
-  <sub>Claude · Cursor · OpenAI Codex · Google Antigravity</sub>
+  <sub>
+    <a href="https://claude.ai/">Claude</a> ·
+    <a href="https://cursor.com/">Cursor</a> ·
+    <a href="https://openai.com/codex/">OpenAI Codex</a> ·
+    <a href="https://antigravity.google/">Google Antigravity</a>
+  </sub>
 </p>
 
 ## 🚀 Featured Projects | Dự án nổi bật
